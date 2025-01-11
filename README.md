@@ -1,3 +1,3 @@
 # Github-Workshop-2025
 
-first webpage hosting
+first webpage hosting ourself
